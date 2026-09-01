@@ -1,0 +1,1 @@
+windres icon.rc -o icon.o

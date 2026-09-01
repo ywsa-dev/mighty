@@ -1,0 +1,1 @@
+windres sound.rc -o sound.o
